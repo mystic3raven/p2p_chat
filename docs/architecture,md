@@ -1,0 +1,6 @@
+# Architecture Overview
+
+- Uses libp2p for P2P communication.
+- Implements a Distributed Hash Table (DHT) for scalable discovery.
+- Supports mDNS for local peer detection.
+

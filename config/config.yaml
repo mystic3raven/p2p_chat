@@ -1,0 +1,6 @@
+server:
+  port: 8080
+peer_discovery:
+  enable_mdns: true
+  enable_dht: true
+
